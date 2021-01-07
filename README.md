@@ -1,9 +1,9 @@
 # Introduction 
 TODO: Give a short introduction of your project. Let this section explain the objectives or the motivation behind this project. 
 
-https://portal.azure.com/#home
-https://dev.azure.com/
-https://shell.azure.com/
+  https://portal.azure.com/#home
+  https://dev.azure.com/
+  https://shell.azure.com/
 
 
 Help Through Video Lecture.
