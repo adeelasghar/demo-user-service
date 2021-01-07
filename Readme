@@ -1,0 +1,8 @@
+http://localhost:9002/users
+
+{
+	"firstName":"Adeel",
+	"lastName":"Asghar",
+	"email":"adeel@gmail.com",
+	"departmentId":1
+}
